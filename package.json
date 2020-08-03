@@ -1,0 +1,8 @@
+{
+  "name": "simple_npm_vuln",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "serialize-javascript": "1.7.0"
+  }
+}
